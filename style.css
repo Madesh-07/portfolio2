@@ -1,0 +1,28 @@
+.photo img{
+    width:100%;
+    height:53.4vh;
+}
+.font{
+    font-family:italic;
+}
+.hove:hover{
+    transform:scale(1.9);
+    transition:0.5s;
+}
+.bg-color{
+    background-image:url("menuj.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+.h6{
+    color:white;
+    font-family:italic;
+}
+.bg-blue{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("welcomw\ to\ my\ page.jpg");
+    background-size: 100%;
+}
+.text-italic{
+    color:white;
+    font-family:italic;
+}
